@@ -36,11 +36,14 @@ Any number of web or other clients should be able to join the overlay network.
 
 ```bash
 $ make vue
+*** creating virtual Python environment...
+*** running webserver for Vue demo...
+    use ctrl+c to terminate
  * Serving Flask app "vue.web" (lazy loading)
  * Environment: production
    WARNING: Do not use the development server in a production environment.
    Use a production WSGI server instead.
  * Debug mode: on
-2018-07-29 17:27:33,625 - werkzeug   - [WARNI] -  * Debugger is active!
+2018-07-29 17:54:44,181 - werkzeug   - [WARNI] -  * Debugger is active!
 ```
 Visit [http://localhost:5000](http://localhost:5000).
