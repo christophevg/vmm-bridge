@@ -1,5 +1,7 @@
 # VMM Bridge - A VueX to Mongo Bridge over MQTT
 
+> DISCLAIMER: this is an experiment. If ever, until this disclaimer is removed, don't use the code in this repository, unless you know what you're doing ;-)
+
 ## Rationale
 
 The goal of this experiment is to construct a transparant bridge between VueX and Mongo over MQTT. The most important part of this experiment is the definition of the protocol and modus operandi. The experiment will be implemented using Python, but other implementations are of course possible and ought to be interoperable when adhering to the protocol.
